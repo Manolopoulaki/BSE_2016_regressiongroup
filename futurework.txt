@@ -1,11 +1,11 @@
 FUTURE WORK
 
-We will change the percentage of the training and test set to see the effects of smaller/larger training sets to the results of the code. We will try the combinations: 70% training set 30% test set and 60% training set and 40% test set. 
+We will change the percentage of the training and test set to see the effects of smaller/larger training sets to the results of the code. We will try the combinations: 70% training set / 30% test set and 60% training set / 40% test set. 
 
 We will change the number of trees used in the random forest to see the change in the error of the estimation and the change of the computation time. We will study all the parameters of the regressor we are using, in order to optimise our code and the statistics we get from it.
 
-We will change the number and combination features for training and testing to see the importance of each one of them and their combination.
+We will change the number and combination features as well as linear combinations of them for training and testing to see the importance of each one of them and their combination.
 
-We will compute more statistical measures other than the mean and standard deviation to assess our results, like : median, the deviation of the median, the outliers fraction.
+We will compute more statistical measures other than the mean and standard deviation to assess our results, like: median, the deviation of the median, the outliers fraction.
 
 Last step would be to use different regression methods and find the optimal one.
