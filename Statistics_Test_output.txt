@@ -1,0 +1,35 @@
+Datasize = 1000
+
+Statistics on delta [col6 - col7]:
+mean = -0.000422565647329
+sigma = 0.039790734953
+rms = 0.03979297864979539
+MAD = 0.0202713217774
+NMAD = 0.0300015562305
+kurtosis = 15.047850549319858
+skew = 0.5954903244600795
+outliers>0.15 = 0.6%
+outliers>1sigma = 23.0%
+outliers>2sigma = 4.2%
+outliers>3sigma = 1.1%
+outliers>4sigma = 0.6%
+sigma68 = 0.032160287083
+sigma95 = 0.07744187744
+sigma99.7 = 0.223385576382
+
+Statistics on normalized delta [col6 - col7 / (1 + col6)]:
+mean_norm = -0.00147708883319
+sigma_norm = 0.0337827952824
+rms_norm = 0.0338150713219881
+MAD_norm = 0.0178908784365
+NMAD_norm = 0.026478500086
+kurtosis_norm = 7.655760704836808
+skew_norm = -0.41061283162194145
+outliers>0.15 = 0.5%
+outliers>1sigma = 24.4%
+outliers>2sigma = 4.1%
+outliers>3sigma = 1.2%
+outliers>4sigma = 0.5%
+sigma68 = 0.0279979217377
+sigma95 = 0.0647105925179
+sigma99.7 = 0.183967812692
